@@ -8,5 +8,4 @@
 - It explains the basic setup required for the langgraph further
 - It has the information regarding the different fields of chat models such as their temperature(Randomness), stream(stream chunks of response), invoke.
 
-# Module 1
-## Lesson 1: Motivation
+
