@@ -24,5 +24,8 @@
 - When the invoke command is called it starts the graph from _START_ then traverses through node 1 in the given example, makes a choice between 2 or 3 and the _END_
 - In the **tweaks** i have tried making a bigger graph using the same exact logic.
 
+## Lesson 3: LangSmith Studio
+- 
+
 
 
