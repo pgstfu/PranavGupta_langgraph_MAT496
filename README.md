@@ -43,3 +43,10 @@
 - In the **tweaks** I have made changes in the given datasets used my own questions and prepared a different tool and then integrated into the chat model.
 ![Alt Text](image2.png)
 
+## Lesson 6: Agent
+- We can make the router work like a general-purpose agent that handles different kinds of tasks.
+- The model can either stop after giving an answer or take the tool’s result and continue the conversation.
+- In the demo video, they showed the agent making three tool calls one after another.
+- You can track your project in LangSmith, which shows each step and process in detail — including things like how long it took (latency) and how many tokens were used.
+![Alt Text](image3.png)
+
