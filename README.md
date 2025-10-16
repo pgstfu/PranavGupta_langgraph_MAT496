@@ -36,3 +36,10 @@
 - To link our chat AI to an external tool like an API, we need to give it a set of information to work.
 - Reducers let you attach or combine new messages into your chat.
 - In the **tweaks** I have made changes in the given datasets used my own questions and prepared a different tool and then integrated into the chat model.
+
+## Lesson 5: Router
+- A **router** is like a simple agent that decides whether the AI should just reply with an answer or call a tool to get more info.
+- The **conditional edge** checks what the AI’s output is — if it’s asking to use a tool, it sends the flow to the tool node; if not, the process ends there.
+- In the **tweaks** I have made changes in the given datasets used my own questions and prepared a different tool and then integrated into the chat model.
+![Alt Text](image2.png)
+
