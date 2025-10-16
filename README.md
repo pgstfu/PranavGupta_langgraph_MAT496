@@ -25,7 +25,12 @@
 - In the **tweaks** i have tried making a bigger graph using the same exact logic.
 
 ## Lesson 3: LangSmith Studio
-- 
+- LangSmith Studio allows you to set up, view, and test your agents in an interactive environment.
+- In the Threads section of the Studio, you can monitor and trace different runs of your graphs.
+- You can also add multiple inputs to the graph state to create and connect various nodes, building the complete graph structure.
+![Alt Text](image1.png)
+
+## Lesson 4: 
 
 
 
