@@ -22,5 +22,7 @@
 - Edges are interconnected through nodes
 - In the given example we use if statement to choose between node 2 and 3.
 - When the invoke command is called it starts the graph from _START_ then traverses through node 1 in the given example, makes a choice between 2 or 3 and the _END_
-- In the tweaks i have tried making a bigger graph using the same exact logic.
+- In the **tweaks** i have tried making a bigger graph using the same exact logic.
+
+
 
