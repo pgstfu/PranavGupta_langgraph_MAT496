@@ -49,4 +49,13 @@
 - In the demo video, they showed the agent making three tool calls one after another.
 - You can track your project in LangSmith, which shows each step and process in detail — including things like how long it took (latency) and how many tokens were used.
 ![Alt Text](image3.png)
+## Lesson 7: Agent-memory
+- We added memory to our agent so it can remember things during a conversation.
+- The state only lasts while one run of the graph is happening — it resets after that.
+- The graph controls how everything flows — it connects different steps (nodes) and the paths between them (edges).
+- Each step that happens one after another is called a superstep, and steps that happen at the same time share the same superstep.
+- Checkpoints save the graph’s progress at every stage, so you can see what happened at each step.
+- A thread is just a bunch of these checkpoints grouped together — like a full record of one run.
+- When the LLM needs to use a tool, it sends a tool call to the tools node. The tool runs, sends back its result, and the AI then turns that result into a natural, human-like response.
+![Alt Text](image4.png) 
 
