@@ -30,7 +30,9 @@
 - You can also add multiple inputs to the graph state to create and connect various nodes, building the complete graph structure.
 ![Alt Text](image1.png)
 
-## Lesson 4: 
-
-
-
+## Lesson 4: Chain
+- We create a basic process where chat messages are used, the AI model talks back, we connect tools to the AI, and the AI can use those tools while running the process.
+- We can give a bunch of messages to the chat AI for it to read and respond.
+- To link our chat AI to an external tool like an API, we need to give it a set of information to work.
+- Reducers let you attach or combine new messages into your chat.
+- In the **tweaks** I have made changes in the given datasets used my own questions and prepared a different tool and then integrated into the chat model.
