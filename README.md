@@ -59,3 +59,9 @@
 - When the LLM needs to use a tool, it sends a tool call to the tools node. The tool runs, sends back its result, and the AI then turns that result into a natural, human-like response.
 ![Alt Text](image4.png) 
 
+# Module 2
+## Lesson 1: State Schema
+- Got hands-on with state management in LangGraph using TypedDict, dataclass, and Pydantic.
+- Learned how to define the structure of data so nodes can read and update it easily.
+- Understood the difference between just hinting types and actually validating data at runtime.
+- Built a simple graph where the agent makes decisions based on current state.
