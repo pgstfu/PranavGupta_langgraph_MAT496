@@ -90,3 +90,11 @@
 - Overall, this lesson taught how to keep the chatbot’s memory clean, focused, and efficient.
 - Tweaks, revised dataset with different tone, trimming function with different name, selective filter function, combine both filters and trimmer.
 ![Alt Text](image5.png)
+
+## Lesson 5: Chatbot with message summarization
+- The lesson showed how a chatbot can remember past chats by summarizing them instead of saving everything word for word.
+- It explained how this idea helps the chatbot keep track of the conversation smoothly without using too many resources.
+- Using LangChain and LangGraph made it easier to see how memory and flow are handled behind the scenes.
+- The concept of summarization also made the chatbot’s replies feel more natural and connected over long conversations.
+- Overall, it gave a clearer idea of how chatbots can be made smarter, faster, and more human-like just by managing memory better.
+- Tweaks example chat data taken, updated variable names.
