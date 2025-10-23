@@ -65,3 +65,10 @@
 - Learned how to define the structure of data so nodes can read and update it easily.
 - Understood the difference between just hinting types and actually validating data at runtime.
 - Built a simple graph where the agent makes decisions based on current state.
+
+## Lesson 2: State Reducers
+- Learned how reducers help manage state updates in LangGraph, especially when multiple nodes try to change the same data at once.
+- Tried out built-in reducers like add_messages and operator.add, and also created custom reducers to handle special cases like empty values.
+- Practiced updating state in different ways: appending data, overwriting duplicates, and removing messages.
+- Understood how reducers make state changes clear, predictable, and conflict-free in graphs with branching or parallel nodes.
+- Tweaks included modifying the graph, conditional updates based on state values.
