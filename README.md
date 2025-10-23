@@ -72,3 +72,11 @@
 - Practiced updating state in different ways: appending data, overwriting duplicates, and removing messages.
 - Understood how reducers make state changes clear, predictable, and conflict-free in graphs with branching or parallel nodes.
 - Tweaks included modifying the graph, conditional updates based on state values.
+
+## Lesson 3: Multiple Schemas
+- So from this lesson, I understood that it’s about using multiple schemas in LangGraph.
+- Normally, every node in the graph shares one main schema for inputs and outputs.
+- But sometimes, we might need to pass around some extra or internal data that isn’t part of the main result.
+- For that, we can create a private state just for communication between certain nodes.
+- It basically helps keep things neat and organized — the main schema handles only the important inputs and outputs, and the private one deals with the background stuff.
+- Tweaks included state with extra fields, multi branch grph, conditional logic in reducer, printing the values.
