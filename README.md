@@ -80,3 +80,13 @@
 - For that, we can create a private state just for communication between certain nodes.
 - It basically helps keep things neat and organized — the main schema handles only the important inputs and outputs, and the private one deals with the background stuff.
 - Tweaks included state with extra fields, multi branch grph, conditional logic in reducer, printing the values.
+
+## Lesson 4: Trim & Filter messages
+- Learned how chatbots handle long conversations without forgetting key points.
+- Understood how to cut down unnecessary messages to make chats shorter and faster.
+- Explored how graph states store and pass information between parts of a chatbot.
+- Studied how to combine old and new chat data using custom reducers.
+- Used LangSmith to check how the chatbot processes and remembers messages.
+- Overall, this lesson taught how to keep the chatbot’s memory clean, focused, and efficient.
+- Tweaks, revised dataset with different tone, trimming function with different name, selective filter function, combine both filters and trimmer.
+![Alt Text](image5.png)
