@@ -98,3 +98,11 @@
 - The concept of summarization also made the chatbot’s replies feel more natural and connected over long conversations.
 - Overall, it gave a clearer idea of how chatbots can be made smarter, faster, and more human-like just by managing memory better.
 - Tweaks example chat data taken, updated variable names.
+
+## Lesson 6: Chatbot with message summarization and external DB memory
+- Chatbot stores conversation history in a database like SQLite for long-term memory.
+- Memory remains intact even after the chatbot restarts.
+- Important details are saved and accessed later using LangGraph checkpointers.
+- Summarization of messages helps keep context while saving resources.
+- Enhances chatbot’s consistency, reliability, and ability to understand conversations over time.
+- Tweaks detailed docstrings, clearer variable names, and better error handling, new helper function.
