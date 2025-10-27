@@ -131,3 +131,11 @@
 - This helps in analyzing and debugging exactly where issues might occur during execution.
 - It gives more control over how and when the graph pauses, making testing more efficient and flexible.
 - Tweaks: Changes in variable. Pranav=World.
+
+## Lesson 5: Time-Travel
+- I learned that time travel lets us go back to a previous state of the graph.
+- It helps in reviewing or re-running the graph from an earlier point without starting everything from scratch.
+- This feature is useful for debugging, testing different paths, or understanding how changes affect the flow.
+- It gives better control over experimentation and makes working with graphs more efficient.
+**Tweaks**:Changed the example prompt from Multiply 2 and 3 to Multiply 4 and 5
+![Alt Text](image6.png)
