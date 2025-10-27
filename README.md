@@ -108,4 +108,7 @@
 - Tweaks detailed docstrings, clearer variable names, and better error handling, new helper function.
 
  # Module 3
- ## Lesson 1: 
+ ## Lesson 1: Streaming
+ - Learned how streaming responses work in LangGraph and how conversation flow can be paused or interrupted during execution.
+ - Understood how threads and configurations are used to manage chat-based workflows.
+ - Changed the example prompt from Multiply 2 and 3 to Multiply 4 and 5
