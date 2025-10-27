@@ -130,3 +130,4 @@
 - I learned that dynamic breakpoints allow us to pause a graph based on certain conditions instead of fixed points.
 - This helps in analyzing and debugging exactly where issues might occur during execution.
 - It gives more control over how and when the graph pauses, making testing more efficient and flexible.
+- Tweaks: Changes in variable. Pranav=World.
