@@ -106,3 +106,6 @@
 - Summarization of messages helps keep context while saving resources.
 - Enhances chatbot’s consistency, reliability, and ability to understand conversations over time.
 - Tweaks detailed docstrings, clearer variable names, and better error handling, new helper function.
+
+ # Module 3
+ ## Lesson 1: 
