@@ -118,3 +118,9 @@
 - It helps to check intermediate outputs, understand data flow, and fix issues without running the entire graph again.
 - The notebook showed how to set and use breakpoints using the client, continue execution after pausing, and review the state in between.
 - Overall, I learned how breakpoints make debugging and testing in LangGraph much easier and more controlled.
+
+## Lesson 3: Editing state and human feedback
+- In this lesson, I learned that LangGraph lets us make changes to a graph’s state using human feedback.
+- We can update things like node outputs or messages without having to run the whole graph again.
+- It’s a simpler way to fix mistakes or adjust the output as we go.
+- This makes debugging and improving the graph much quicker and easier to manage.
