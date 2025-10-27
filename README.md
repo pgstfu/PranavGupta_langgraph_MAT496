@@ -124,3 +124,9 @@
 - We can update things like node outputs or messages without having to run the whole graph again.
 - It’s a simpler way to fix mistakes or adjust the output as we go.
 - This makes debugging and improving the graph much quicker and easier to manage.
+
+## Lesson 4: Dynamic breakpoints
+- I learned that dynamic breakpoints allow us to pause a graph based on certain conditions instead of fixed points.
+- I learned that dynamic breakpoints allow us to pause a graph based on certain conditions instead of fixed points.
+- This helps in analyzing and debugging exactly where issues might occur during execution.
+- It gives more control over how and when the graph pauses, making testing more efficient and flexible.
