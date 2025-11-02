@@ -146,3 +146,13 @@
 - It showed how we can “fan out” tasks to work separately and then “fan in” the results to bring everything together smoothly.
 - This makes the whole process a lot faster and more organized, especially when using multiple agents or handling bigger tasks.
 - Overall, it helped me really see how LangGraph manages several things at once without messing up the final output.
+
+## Lesson 2: Sub-graphs
+- The example with logs, where one sub-graph summarized data and another detected failures, really helped me understand how sub-graphs work independently but still stay connected to the main workflow.
+- I learned that sub-graphs allow a complex system to be divided into smaller, organized sections, each handling its own logic and state.
+- This structure makes it much easier to manage and coordinate multi-agent setups without confusion.
+- I also understood how data sharing through overlapping keys lets the main graph and sub-graphs exchange information smoothly and keep everything in sync.
+![alt text](0B6B30E7-F17B-46DA-A17D-C9C47F450E13.jpeg)
+
+
+
