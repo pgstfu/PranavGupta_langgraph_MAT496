@@ -139,3 +139,10 @@
 - It gives better control over experimentation and makes working with graphs more efficient.
 **Tweaks**:Changed the example prompt from Multiply 2 and 3 to Multiply 4 and 5
 ![Alt Text](image6.png)
+
+# Module 4 
+## Lesson 1: Parallelisation
+- I learned that parallelization lets different parts of a graph run at the same time instead of one after another.
+- It showed how we can “fan out” tasks to work separately and then “fan in” the results to bring everything together smoothly.
+- This makes the whole process a lot faster and more organized, especially when using multiple agents or handling bigger tasks.
+- Overall, it helped me really see how LangGraph manages several things at once without messing up the final output.
