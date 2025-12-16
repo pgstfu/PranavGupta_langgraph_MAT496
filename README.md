@@ -154,5 +154,7 @@
 - I also understood how data sharing through overlapping keys lets the main graph and sub-graphs exchange information smoothly and keep everything in sync.
 ![alt text](0B6B30E7-F17B-46DA-A17D-C9C47F450E13.jpeg)
 
+## Lesson 3: Map-Reduce
+
 
 
